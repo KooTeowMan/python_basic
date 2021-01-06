@@ -26,7 +26,7 @@ Sometimes you want bullet points:
 Alternatively,
 
 - Death Star
-![deathstar](https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Death_star1.png/220px-Death_star1.png)
+- ![deathstar](https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Death_star1.png/220px-Death_star1.png)
 - Tie Fighter
   - Advanced
   - Strike
