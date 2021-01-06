@@ -1,7 +1,7 @@
 # python_basic
 # Main Header
 ## Smaller Header
-# It's very easy to make some words **bold** **and** other words *italic* with Markdown.
+# It's very easy to make some words **bold** other words *italic* with Markdown.
 
 As Kanye West said:
 
